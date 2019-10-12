@@ -1,3 +1,4 @@
-##MLH Local HAck Day
+#MLH Local HAck Day
+
 ###Participant List
 -XYZ

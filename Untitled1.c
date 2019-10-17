@@ -19,6 +19,7 @@ int main()
     printf("time is:- %d:%d:%d",hours,min,sec);
     printf("Working with project");
     printf("Computer Science Engineer");
+    printf("mechanical engineer");
   }
   else
   {

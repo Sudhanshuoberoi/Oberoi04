@@ -12,9 +12,8 @@ int main()
   min=tm_now->tm_min;
   sec=tm_now->tm_sec;
   printf("time is:- %d:%d:%d",hours,min,sec);
-  printf("Working with project");
-  printf("Computer Science Engineer");
-  printf("Hello World");
+
+  printf("time is:- %d:%d:%d",hours,min,sec);
   }
 
 

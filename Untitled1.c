@@ -6,7 +6,7 @@ int main()
   int a;
   printf("Enter the value of a: ");
   scanf("%d",&a);
-  if(a<10)
+  if(a<=10)
   {
     time_t now;
     struct tm *tm_now;
@@ -21,7 +21,10 @@ int main()
     printf("Computer Science Engineer");
   }
   else
+  {
     printf("Hello World");
+   }
+  return 0;
   }
 
 
